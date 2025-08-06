@@ -1,0 +1,2 @@
+# Welcome to Oquendo's Machine Learning projects!
+This project is focused on Machine Learning, Genetic Algorithms and AI related models. Each folder contains one main file with the data used and other files, each with a different algorithm. Ultimately, this will be used not only to learn about different models, but also compare their performances, how and when they are better used
